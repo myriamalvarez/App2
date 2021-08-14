@@ -41,5 +41,6 @@ public class MainActivity3 extends AppCompatActivity {
         }else{
             TVFinal.setText("sin datos");
         }
+        c.close();
     }
 }
